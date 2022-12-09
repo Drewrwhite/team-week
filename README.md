@@ -55,9 +55,13 @@ Drew also put together a line graph highlighting the happiness score for the top
 
 <br>
 
-Drew compiled a map highlighting the happiness score for all countries. Code for the visualization is located in `dw.ipynb`. Below is the output of the visualization:
+Drew compiled a map highlighting the happiness score for all countries as well as a map showing the corruption rate by country. Code for the visualization is located in `dw.ipynb`. Below is the output of the visualization:
 
 ![happiness_geo_heat.png](./images/happiness_geo_heat.png)
+
+<br>
+
+![happiness_geo_heat.png](./images/corruption_by_country_dw.png)
 
 <br>
 
